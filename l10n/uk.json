@@ -349,6 +349,7 @@
     "Tentative" : "Можливо так",
     "No attendees yet" : "Поки жодного учасника",
     "{invitedCount} invited, {confirmedCount} confirmed" : "{invitedCount} запрошено, {confirmedCount} підтверджено",
+    "Please add at least one attendee to use the \"Find a time\" feature." : "Додайте принаймні одного учасника, щоби скористатися функціональністю \"Визначити час\"",
     "Successfully appended link to talk room to location." : "Успішно додано посилання на розташування у кімнаті спілкування ",
     "Successfully appended link to talk room to description." : "Успішно додано посилання на віртуальну кімнату Talk до опису події.",
     "Error creating Talk room" : "Помилка при створенні віртуальної кімнати Talk",
@@ -581,24 +582,6 @@
     "This is an event reminder." : "Це нагадування про подію.",
     "Error while parsing a PROPFIND error" : "Помилка під час обробки помилки PROPFIND",
     "Appointment not found" : "Запрошення на зустріч не знайдено",
-    "User not found" : "Користувача не знайдено",
-    "The Calendar app is a user interface for Nextcloud's CalDAV server. Easily sync events from various devices with your Nextcloud and edit them online.\n\n* 🚀 **Integration with other Nextcloud apps!** Currently Contacts - more to come.\n* 🌐 **WebCal Support!** Want to see your favorite team’s matchdays in your calendar? No problem!\n* 🙋 **Attendees!** Invite people to your events\n* ⌚️ **Free/Busy!** See when your attendees are available to meet\n* ⏰ **Reminders!** Get alarms for events inside your browser and via email\n* 🔍 Search! Find your events at ease\n* ☑️ Tasks! See tasks with a due date directly in the calendar\n* 🙈 **We’re not reinventing the wheel!** Based on the great [c-dav library](https://github.com/nextcloud/cdav-library), [ical.js](https://github.com/mozilla-comm/ical.js) and [fullcalendar](https://github.com/fullcalendar/fullcalendar) libraries." : "Застосунок \"Календар\" надає зручний доступ до календарних даних у хмарному сервері Nextcloud за допомогою протоколу CalDAV. З легкістю редагуйте та синхронізуйте події між вашими пристроями та Nextcloud в онлайні.\n\n* 🚀 **Інтеграція з іншими застосунками Nextcloud!**: на разі - це \"Контакти\", невдовзі додаватимуться інші застосунки.\n* 🌐 **Надає підтримку за протоколом WebCal!** Бажаєте бачити у своєму календарі дати матчів вашої улюбленої команди? Без проблем!\n* 🙋 **Учасники!** Запросіть інших людей до участі у вашіх подіях\n* ⌚️ **Доступність учасників** Побачте коли ваші друзі чи колеги доступні для запрошення на зустріч, яку ви плануєте організувати.\n* ⏰ **Нагадування!** Отримуйте сповіщення та нагадування про подію у вашому браузері та за допомогою електронної пошти.\n* 🔍 Пошук! Знаходьте легко події.\n* ☑️ Завдання! Переглядайте завдання, які мають терміни виконання, безпосередньо в календарі\n* 🙈 **Ми не винаходимо наново колесо!** Сервіс створено на відомій бібліотеці [c-dav](https://github.com/nextcloud/cdav-library), а також бібліотеках [ical.js](https://github.com/mozilla-comm/ical.js) і [fullcalendar](https://github.com/fullcalendar/fullcalendar).",
-    "Default calendar for invitations and new events" : "Типовий календар для запрошень та нових подій",
-    "Appointment was created successfully" : "Успішно створено зустріч",
-    "Appointment was updated successfully" : "Успішно оновлено зустріч",
-    "Create appointment" : "Створити зустріч",
-    "Edit appointment" : "Редагувати зустріч",
-    "Book the appointment" : "Зарезервувати зустріч",
-    "You do not own this calendar, so you cannot add attendees to this event" : "Ви не є власником цього календаря та не можете додавати учасників цієї події",
-    "Create Talk room for this event" : "Створити віртуальну кімнату Talk для цієї події",
-    "Search for emails, users, contacts or groups" : "Пошук імейлів, користувачів, контактів або груп",
-    "Select date" : "Виберіть дату",
-    "[Today]" : "[Сьогодні]",
-    "[Tomorrow]" : "[Завтра]",
-    "[Yesterday]" : "[Вчора]",
-    "Create a new event" : "Створити нову подію",
-    "in {monthNames}" : "у {monthNames}",
-    "Add a description" : "Додати опис",
-    "Chat room for event" : "Кімната чату для події"
+    "User not found" : "Користувача не знайдено"
 },"pluralForm" :"nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);"
 }

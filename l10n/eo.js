@@ -87,10 +87,10 @@ OC.L10N.register(
     "Delete file" : "Forigi dosieron",
     "Available" : "Disponeble",
     "Not available" : "Ne disponeble",
-    "Busy" : "Okupita",
     "Out of office" : "Ekstere oficejo",
-    "Unknown" : "Nekonata",
     "Done" : "Farita",
+    "Busy" : "Okupita",
+    "Unknown" : "Nekonata",
     "Accept" : "Akcepti",
     "Decline" : "Malakcepti",
     "Tentative" : "Nekonfirmita",
@@ -140,9 +140,6 @@ OC.L10N.register(
     "Canceled" : "Nuligita",
     "Categories" : "Kategorioj",
     "Add this as a new category" : "Aldoni tion kiel novan kategorion",
-    "User not found" : "Netrovita uzanto",
-    "[Today]" : "[Hodiaŭ]",
-    "[Tomorrow]" : "[Morgaŭ]",
-    "[Yesterday]" : "[Hieraŭ]"
+    "User not found" : "Netrovita uzanto"
 },
 "nplurals=2; plural=(n != 1);");

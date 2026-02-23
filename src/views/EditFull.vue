@@ -962,10 +962,6 @@ export default {
 		gap: calc(var(--default-grid-baseline) * 4);
 	}
 
-	.v-select.select {
-		min-width: unset !important;
-	}
-
 	.property-alarm-item {
 		margin-inline-start: calc(var(--default-grid-baseline) * 5);
 	}

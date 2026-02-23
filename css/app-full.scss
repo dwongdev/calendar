@@ -60,7 +60,7 @@
 	display: flex;
 	align-content: center;
 	align-items: center;
-	gap: calc(var(--default-grid-baseline) * 6);
+	gap: calc(var(--default-grid-baseline) * 4);
 	justify-content: flex-start;
 
 	&__input {
@@ -70,6 +70,11 @@
 		.v-select {
 			width: 100%;
 			margin: 0 !important;
+			overflow-x: hidden;
+
+			.vs__dropdown-toggle {
+				overflow-y: visible !important;
+			}
 		}
 	}
 }
